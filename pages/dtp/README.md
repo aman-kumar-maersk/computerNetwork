@@ -43,7 +43,7 @@ Here's how the request-response process works in UDP:
 > ### 3. Hyper Text Transfer Protocol (HTTP)
 HTTP is the protocol mainly used for transferring Web Pages and related resources over the Internet. It operates on top of [TCP](#1-transmission-control-protocol-tcp) and follows a `Request - Response method.`
 
-#### Following are some of the features of [HTTP Protocol](/null)
+#### Following are some of the features of [HTTP Protocol](/pages/dtp/HTTP.md)
 
 1. [Stateless Protocol](/null)
 2. [Request Methods (GET, POST, PUT, DELETE, etc.)](/null)
@@ -78,7 +78,7 @@ HTTPS (Hypertext Transfer Protocol Secure) is a secure extension of HTTP that us
 > ### 4. FTP
 
 FTP (File Transfer Protocol) is a network protocol used for transferring files between a client and a server over a computer network, often used for website hosting and file sharing.
-
+![FTP Connection](/assets/ftpConnection.webp)
 #### Some features of FTP :
 
 1. **Two Channels:** FTP uses two separate channels - a command channel for sending commands and receiving responses, and a data channel for transferring actual files.
@@ -93,6 +93,7 @@ FTP (File Transfer Protocol) is a network protocol used for transferring files b
 
 > ### 4. SSH
 SSH (Secure Shell) is a cryptographic network protocol used for secure remote access and data transfer between two devices over an insecure network, such as the internet. It is very popular for managing remote controlled access over the internet.
+![SSH operation](/assets/sshOperation.webp)
 
 #### Main features of SSH :
 
