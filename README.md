@@ -27,14 +27,14 @@
     - DNS Records
         - What is a DNS Record ?
         - Types of DNS Records
-            <!-- 1. SOA ( Start of Authority Record)
+            1. SOA ( Start of Authority Record)
             2. A ( IPv4 Record )
             3. AAAA ( IPv6 Record )
             4. CNAME ( Alias )
             5. MX ( Mail Exchange Record )
             6. NS ( NameServer Record )
             7. PTR ( Reverse A Lookup )
-            8. SRV ( VOIP Record ) -->
+            8. SRV ( VOIP Record )
     - DNS Zones
         - What is a DNS Zone ?
         - Need for DNS Zone .
